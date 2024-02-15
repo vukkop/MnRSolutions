@@ -14,27 +14,16 @@
       <div class="col-md-8 col-sm-7 col-6 box-cell box1">
       </div>
       <div class="col-md-4 col-sm-5 col-6 box-cell box2">
-        <a class="call" href="tel:+16042601455">
+        <a class="call" href="tel:+16041231234">
           <h1 class="call">CALL US TODAY</h1>
           <h1>
-            1-604-260-1455
+            1-604-123-1234
           </h1>
         </a>
       </div>
     <div class="box">
     </div>
   </div>
-
-
-
-
-
-
-
-
-
-
-
 
 
   <div class="row second">

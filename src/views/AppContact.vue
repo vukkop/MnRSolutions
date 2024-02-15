@@ -9,9 +9,9 @@
     <div class="col-md-6 col-sm-6">
 
       <div class="callButton">
-        <a href="tel:+16042601455">
+        <a href="tel:+16041231234">
           <h4><strong>Call us for a free quote</strong></h4>
-          <h4>Phone: <strong>1-604-260-1455</strong></h4>
+          <h4>Phone: <strong>1-604-123-1234</strong></h4>
         </a>
       </div>
 
